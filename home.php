@@ -5,7 +5,7 @@ $connection=mysqli_connect("localhost:3307","root","","beemail");
 $query="select mailid, from_id,subject,body from mails where to_id='$email_id'";
 $result=mysqli_query($connection,$query);
 ?>
-<html>
+<html>,rjhfgkisvjlieafkljsuhgdfaS;zlezoishf[p09i,szj0
 <head>
   <title>Home</title>
   <link rel="stylesheet" type="text/css" href="bootstrap.min.css">
