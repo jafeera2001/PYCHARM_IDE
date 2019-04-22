@@ -17,6 +17,7 @@ $result=mysqli_query($connection,$query);
       mails.submit();
       console.log("after submit");
     }
+    ASDFGHJKTYREWJILQK  CNDLXJ
   </script>
 </head>
 
