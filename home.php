@@ -1,5 +1,5 @@
 <?php
-session_start();
+session_start();jhgdcbfjhkxdjn;lj;lsxfklk
 $email_id=$_SESSION['email_id'];
 $connection=mysqli_connect("localhost:3307","root","","beemail");
 $query="select mailid, from_id,subject,body from mails where to_id='$email_id'";
